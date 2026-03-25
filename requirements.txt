@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+requests
+# speech to text
+faster-whisper # ASR
+# TTS Options (choose one in .env)
+gTTS #TTS 
+piper-tts # offline neural TTS
